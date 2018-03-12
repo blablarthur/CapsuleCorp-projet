@@ -1,2 +1,2 @@
 # CapsuleCorp-projet
-Le meilleur jeu jamais créé
+Faite le tuto de Github pour comprendre un peu comment ça marche bande de boloss.
